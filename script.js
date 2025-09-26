@@ -1,5 +1,5 @@
 
-let name="john";
+ const name="john";
 
 let age=20;
 
